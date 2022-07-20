@@ -28,3 +28,7 @@ int main(){
 
     }
 }
+
+
+
+***THis program successfully exceuted only for two case.****
